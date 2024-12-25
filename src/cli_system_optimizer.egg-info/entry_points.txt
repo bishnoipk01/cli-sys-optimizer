@@ -1,0 +1,2 @@
+[console_scripts]
+optimizer = optimizer.cli:cli

@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/cli_system_optimizer.egg-info/PKG-INFO
+src/cli_system_optimizer.egg-info/SOURCES.txt
+src/cli_system_optimizer.egg-info/dependency_links.txt
+src/cli_system_optimizer.egg-info/entry_points.txt
+src/cli_system_optimizer.egg-info/requires.txt
+src/cli_system_optimizer.egg-info/top_level.txt
+tests/test_actions.py
+tests/test_monitor.py
+tests/test_profiles.py
+tests/test_suggest.py
