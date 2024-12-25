@@ -8,7 +8,7 @@ url="https://github.com/bishnoipk01/cli-sys-optimizer"
 license=('MIT')
 depends=('python')
 makedepends=('python-setuptools' 'python-build' 'python-installer' 'python-wheel')
-source=("$pkgname-$pkgver.tar.gz::https://github.com/bishnoipk01/cli-sys-optimizer/release/downlaod/0.1.0/cli_system_optimizer-$pkgver.tar.gz")
+source=("$pkgname-$pkgver.tar.gz::https://github.com/bishnoipk01/cli-sys-optimizer/releases/download/0.1.0/cli_system_optimizer-$pkgver.tar.gz")
 sha256sums=('SKIP')
 
 build() {
