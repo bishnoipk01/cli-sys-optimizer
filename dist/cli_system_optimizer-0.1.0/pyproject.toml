@@ -3,7 +3,7 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "cli-sys-optimizer"
+name = "cli-system-optimizer"
 version = "0.1.0"
 description = "A CLI tool for monitoring and optimizing system resources."
 authors = [
