@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cli-sys-optimizer"
-version = "0.1.0"
+version = "1.0.0"
 description = "A CLI tool for monitoring and optimizing system resources."
 authors = [
     { name = "Pankaj Kumar", email = "pankajbishnoi2001@gmail.com" }

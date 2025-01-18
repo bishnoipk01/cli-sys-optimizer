@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: cli-sys-optimizer
-Version: 0.1.0
-Summary: A CLI tool for monitoring and optimizing system resources.
-Author-email: Pankaj Kumar <pankajbishnoi2001@gmail.com>
-License: MIT
-Requires-Dist: click
-Requires-Dist: psutil

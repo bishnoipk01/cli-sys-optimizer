@@ -7,7 +7,6 @@ A Python-based CLI tool for monitoring and optimizing system resources on Linux.
 - Monitor CPU, memory, disk, and network usage.
 - Get optimization suggestions.
 - Apply system optimization actions.
-- Manage and apply custom profiles.
 
 ## Installation
 1. Install from AUR (Arch User Repository)
