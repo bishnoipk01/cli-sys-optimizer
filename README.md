@@ -14,7 +14,7 @@ A Python-based CLI tool for monitoring and optimizing system resources on Linux.
    yay -S cli_sys_optimiser
    ```
 2. Uses
-3. ```bash
+   ```bash
    optimiser --help
    ```
 Alternatively 
@@ -23,5 +23,9 @@ Alternatively
 5. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
+   run
+   ```bash
+   makepkg -si
    ```
    
